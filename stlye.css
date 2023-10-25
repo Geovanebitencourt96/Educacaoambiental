@@ -1,12 +1,17 @@
 p{
-    color:red;
+    color: midnightblue;
     text-align: justify;
     font-size: 20px;
 }
 
 h1{
-    color: blue;
+    color: indigo;
     text-align: center;
     font-size: 40px;
     font-style: italic;
+}
+
+#texto1{
+    color: teal;
+    
 }
