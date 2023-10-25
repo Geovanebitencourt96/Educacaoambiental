@@ -13,5 +13,13 @@ h1{
 
 #texto1{
     color: teal;
-    
+}
+#texto2{
+    color: rgb(34, 139, 34);
+}
+
+.destaques{
+    color: rgb(255, 0, 255);
+    font-size: 35;
+    font-style: italic;
 }
