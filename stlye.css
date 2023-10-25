@@ -1,11 +1,11 @@
 p{
-    color: green;
+    color:rgb(red, green, blue)
     text-align: justify;
     font-size: 20px;
 }
 
 h1{
-    color: indigo;
+    color: darkslategray;
     text-align: center;
     font-size: 40px;
     font-style: italic;
